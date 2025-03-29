@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|u:\\medicineghor_pharmacymanagement\\main_project_file\\project\\pharmacymanagement_medicineghor\\pharmacymanagement_medicineghor\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\pharmacistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\pharmacistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\pharmacistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\pharmacistdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\pharmacistmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\pharmacistmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\pharmacistmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\pharmacistmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\allorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\allorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\validitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\validitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\allorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\allorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\sellermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\sellermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\customerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\sellercustomerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\sellercustomerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\sellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\sellerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacymanagement_medicineghor\\validitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6451DCB-9114-4AE6-BE46-4C89C17D5867}|pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor.csproj|solutionrelative:pharmacymanagement_medicineghor\\validitycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 159,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sellMedicine.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellMedicine.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\sellMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:31.99Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "signIn.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\signIn.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\signIn.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\signIn.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\signIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:35.514Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pharmacistDashboard.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAEwLsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:52:21.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pharmacistMainform.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:37:23.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "allOrders.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:53:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "validityCheck.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwEYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T11:52:51.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "addMedicine.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAgwP4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T20:05:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sellMedicine.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\sellMedicine.cs",
+              "ViewState": "AQIAAEcCAAAAAAAAAAASwFsCAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:02:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\Program.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\Program.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\Program.cs",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:15:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addMedicine.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\addMedicine.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addMedicine.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\addMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:13.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formAdmin.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\formAdmin.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\formAdmin.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\formAdmin.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\formAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:28:22.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pharmacistDashboard.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs [Design]*",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\pharmacistDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:12.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminDashboard.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\adminDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\adminDashboard.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\adminDashboard.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\adminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "allOrders.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\allOrders.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\allOrders.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\allOrders.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sellerDashboard.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerDashboard.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\sellerDashboard.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerDashboard.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\sellerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sellerMainform.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerMainform.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\sellerMainform.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerMainform.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\sellerMainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:27.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pharmacistMainform.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\pharmacistMainform.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\pharmacistMainform.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\pharmacistMainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "validityCheck.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\validityCheck.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\validityCheck.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\validityCheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "splashScreen.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\splashScreen.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\splashScreen.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\splashScreen.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\splashScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:38.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sellerCustomerDetails.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerCustomerDetails.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\sellerCustomerDetails.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\sellerCustomerDetails.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\sellerCustomerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:38:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "customerDetails.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\customerDetails.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\customerDetails.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\customerDetails.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\customerDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:34.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "addUser.cs [Design]",
+              "DocumentMoniker": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addUser.cs",
+              "RelativeDocumentMoniker": "pharmacyManagement_MedicineGhor\\addUser.cs",
+              "ToolTip": "U:\\MedicineGhor_pharmacyManagement\\Main_project_file\\Project\\pharmacyManagement_MedicineGhor\\pharmacyManagement_MedicineGhor\\addUser.cs [Design]",
+              "RelativeToolTip": "pharmacyManagement_MedicineGhor\\addUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:37:17.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
