@@ -2,7 +2,7 @@
 **You can watch the demo of this project here:** [Watch Full Video](https://drive.google.com/file/d/1XbAV3JI_nJJ-5d7jLqzCOZO9aUu-dq1q/view?usp=drive_link)
 
 
-🟦 🟦 Admin Features: <br>
+🟦 🟦 **Admin Features:** <br>
 ◼️ Login: Secure login with email and password, with an option to show the entered password. <br>
 ◼️ Dashboard: Displays key data such as total admins, sellers, pharmacists, today's revenue, total revenue and medicine stock status with a pie chart. <br>
 ◼️ Add User: Admin can create, manage and update users with unique IDs and emails for Admin, Pharmacist and Seller roles. Inactive users cannot log in. <br>
@@ -20,7 +20,7 @@
 </p> 
 
 
-🟦🟦 Pharmacist Features:<br>
+🟦🟦 **Pharmacist Features:** <br>
 ◼️ Dashboard: Displays total sellers, today's revenue, available stock and a pie chart of medicine statuses (active, inactive, expired). <br>
 ◼️ Add Medicine: Pharmacists can add, update, delete, and reset medicine entries. Duplicate entries are prevented and expiry dates are validated. <br>
 ◼️ Validity Check: A Grid View and combo box filter to manage valid, expired or all medicines. <br>
@@ -33,7 +33,7 @@
 </p> 
 
 
-🟦 🟦 Seller Features: <br>
+🟦 🟦 **Seller Features:** <br>
 ◼️ Dashboard: Displays today's revenue, available medicines, today's order count and a Grid View of orders. <br>
 ◼️ Sell Medicine: Sellers can search for medicines, add them to the cart and process customer orders. Transactions are finalized with a printed PDF receipt. <br>
 ◼️ Customer Details: A Grid View and search bar to find customers by name or phone number. <br>
